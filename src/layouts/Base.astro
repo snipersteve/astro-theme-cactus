@@ -9,10 +9,12 @@ import type { SiteMeta } from "@/types";
 
 interface Props {
 	meta: SiteMeta;
+	type?: string;
 }
 
 const {
 	meta: { articleDate, description = siteConfig.description, ogImage, title },
+	type,
 } = Astro.props;
 ---
 
@@ -25,7 +27,7 @@ const {
 	>
 		<ThemeProvider />
 		<SkipLink />
-		<Header />
+		{type !== "post" && <Header />}
 		<main id="main">
 			<slot />
 		</main>
