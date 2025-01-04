@@ -1,7 +1,6 @@
 ---
 title: 随笔——GTD误区
 publishDate: 2014-01-27
-featured: false
 ---
 
 我在大学期间最沉迷于时间管理，起因是买了一个PDA，想装DTG（Document to go）来看word文件，不小心却进了GTD（Get things done）的帖子，才开始了解这一领域，并研究了一堆工具。更根本的原因是，浪费的时间太多了，越到后面压力越大，想要提高效率，弥补过去荒废的时光，但往往徒劳无功。
