@@ -90,8 +90,8 @@ update 主题换成zozo，这个主题真是一眼就喜欢，极致性冷淡，
 
 ![2024-01-23-10-50-39](https://snipersteve-public.oss-cn-hangzhou.aliyuncs.com/pic/assets/2024-01-23-10-50-39_d583af01.png)
 
-20250105 再次调整博客，换了个主题，有了cursor后改主题容易多了，指哪儿改哪儿。然后把图床从阿里oss换成cloudflare r2，网络大善人。在编辑器里直接上传图片的快捷键是option+shift+v，可别忘记了。
-![9ad578a6655c37fd79040f57af0755831b91f9d8e194658593a3f128d7a370b0](https://pub-d5bcaa1465694f2b84727665eeded50e.r2.dev/main/9ad578a6655c37fd79040f57af0755831b91f9d8e194658593a3f128d7a370b0.png)  
+20250105 再次调整博客，换了个主题，有了cursor后改主题容易多了，指哪儿改哪儿。然后把图床从阿里oss换成cloudflare r2，赛博大善人。在编辑器里直接上传图片的快捷键是option+shift+v，可别忘记了。
+![767dd9dd3155389e90759fd88b046161d73f37bf71140cca254a3bfa41e50a05](https://pub-d5bcaa1465694f2b84727665eeded50e.r2.dev/main/767dd9dd3155389e90759fd88b046161d73f37bf71140cca254a3bfa41e50a05.png)  
 
 
 （本篇又名：科学博客）
