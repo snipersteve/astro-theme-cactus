@@ -12,7 +12,7 @@ export const GET = async () => {
 		items: notes.map((note) => ({
 			title: note.data.title,
 			pubDate: note.data.publishDate,
-			link: `page/${note.id}/`,
+			link: `pages/${note.id}/`,
 		})),
 	});
 };
