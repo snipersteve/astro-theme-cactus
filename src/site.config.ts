@@ -38,8 +38,8 @@ export const menuLinks: { path: string; title: string }[] = [
 		title: "Blog",
 	},
 	{
-		path: "/notes/",
-		title: "Notes",
+		path: "/page/",
+		title: "Page",
 	},
 ];
 
